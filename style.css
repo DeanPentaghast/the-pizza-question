@@ -45,7 +45,8 @@ legend {
     margin: 20px;
 }
 
-#pizzas-container {
+#pizzas-container,
+#descripcion {
     background-color: white;
     padding: 0px 20px;
     margin: 20px auto;
