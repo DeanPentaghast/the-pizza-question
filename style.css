@@ -1,0 +1,54 @@
+body {
+    font-family: "Futura";
+    background-image: linear-gradient(45deg, #000000 25%, #ffffff 25%, #ffffff 50%, #000000 50%, #000000 75%, #ffffff 75%, #ffffff 100%);
+background-size: 14.14px 14.14px;
+}
+
+ul.checkbox-list  { 
+    margin: 0; 
+    padding: 0; 
+    margin-left: 20px; 
+    list-style: none; 
+} 
+
+ul.checkbox-list li label { 
+    margin-left: 0; 
+} 
+
+ ul.checkbox-list li { 
+    border: 1px transparent solid; 
+    display:inline-block;
+    width:12em;
+} 
+
+.titulo {
+    text-align: center;
+    border: 3px solid black;
+    padding: 5px;
+    box-shadow: 5px 5px;
+    background-color: white;
+}
+
+fieldset {
+    background-color: white;
+    border: 3px solid black;
+    box-shadow: 5px 5px;
+}
+
+legend {
+    background-color: white;
+    border: 3px solid black;
+    padding: 3px 10px;
+}
+
+.separador {
+    margin: 20px;
+}
+
+#pizzas-container {
+    background-color: white;
+    padding: 0px 20px;
+    margin: 20px auto;
+    border: 3px solid black;
+    box-shadow: 5px 5px;
+}
